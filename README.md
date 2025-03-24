@@ -173,7 +173,7 @@ NET MAUI App para Android IOS Mac e Windows: https://t.me/+-qREu_s939JmMTAx
 
 Desenvolvedor Full-Stack Python EBAC 2022: https://t.me/+bAfBQ33WyThhM2Yx
 
-APIs com Puthon e Django: https://t.me/+InNoHMKQxullMmQ5
+APIs com Python e Django: https://t.me/+InNoHMKQxullMmQ5
 
 Desenvolvimento Web-Programador: https://t.me/+etE9L77BlnxiMDMx
 
